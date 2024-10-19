@@ -5,8 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takesh0s)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  <a href="https://github.com/Takesh0s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takesh0s&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
 </div>
