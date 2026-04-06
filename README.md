@@ -1,22 +1,24 @@
 # 👩🏻‍💻 Luiz Phillipe
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
-Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ensino médio no CACT , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Dev com LP](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[LP Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ensino médio no CACT (Colégio Adventista de Taguatinga), com o curso técnico em informática, e atualmente curso Engenharia de Software na UCB.
+
+Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Java e banco de dados. Compartilho meu aprendizado e projetos práticos através do meu canal no YouTube "[Dev com LP](https://www.youtube.com/@takeshi7275)" e do Instagram "[LP Dev](https://www.instagram.com/dev_em_dev/)", com o objetivo de ajudar outros desenvolvedores a evoluírem na programação.
 
 <p align="left">
     <a href="https://www.youtube.com/@takeshi7275">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBy4V64XsUKwa74vN-JpEOg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@takeshi7275">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBy4V64XsUKwa74vN-JpEOg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/Takesh0s?tab=repositories&sort=stargazers">
@@ -112,22 +114,6 @@ Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ens
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -141,22 +127,6 @@ Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -183,3 +153,25 @@ Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Takesh0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takesh0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/> 
+
+</p>
