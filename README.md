@@ -1,10 +1,14 @@
 # 👩🏻‍💻 Luiz Phillipe
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend | Java & APIs Seguras`**
 
 Me chamo Luiz Phillipe, tenho 21 anos e sou natural de Brasília. Concluí o ensino médio no CACT (Colégio Adventista de Taguatinga), com o curso técnico em informática, e atualmente curso Engenharia de Software na UCB.
 
-Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Java e banco de dados. Compartilho meu aprendizado e projetos práticos através do meu canal no YouTube "[Dev com LP](https://www.youtube.com/@takeshi7275)" e do Instagram "[LP Dev](https://www.instagram.com/dev_em_dev/)", com o objetivo de ajudar outros desenvolvedores a evoluírem na programação.
+Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Java e construção de APIs seguras e bem estruturadas.
+
+Compartilho meu aprendizado e projetos através do meu canal no YouTube e Instagram, com o objetivo de ajudar outros desenvolvedores a evoluírem na programação.
+
+---
 
 <p align="left">
     <a href="https://www.youtube.com/@takeshi7275">
@@ -17,7 +21,7 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
     <a href="https://www.youtube.com/@takeshi7275">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="Visualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBy4V64XsUKwa74vN-JpEOg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
@@ -39,62 +43,98 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Habilidades
+
+* Desenvolvimento de APIs REST com Spring Boot
+* Autenticação e autorização (JWT, RBAC)
+* Modelagem de banco de dados relacional (MySQL)
+* Arquitetura em camadas (Controller, Service, Repository)
+* Tratamento global de exceções
+* Organização de código com DTOs e boas práticas
+
+---
+
+## 🚀 Projeto Principal
+
+### 🔐 SecureAccess - SaaS de Gestão de Acessos
+
+📌 Sistema backend para autenticação e controle de acesso de usuários.
+
+🔗 https://github.com/Takesh0s/SecureAcess
+
+### Funcionalidades:
+
+* Autenticação com JWT
+* Controle de permissões baseado em papéis (RBAC)
+* Registro de auditoria de ações dos usuários
+
+### Arquitetura:
+
+* Java + Spring Boot
+* MySQL
+* API REST
+
+### Diferenciais técnicos:
+
+* Estrutura em camadas bem definida
+* Organização voltada para escalabilidade
+* Base preparada para segurança avançada
+
+---
+
+## 🌎 Projeto Complementar
+
+### 🗺️ DF-Turismos
+
+📌 Sistema para divulgação de pontos turísticos do Distrito Federal.
+
+🔗 https://github.com/Takesh0s/DF-Turismos
+
+### Destaques:
+
+* Evolução em múltiplas versões
+* Foco em organização e documentação
+* Aplicação prática de conceitos de desenvolvimento
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
 <img 
-    align="left"
-    alt="Java" 
-    title="Java" 
-    width="40"
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+ align="left"
+ alt="Java" 
+ title="Java" 
+ width="40"
+ style="padding-right: 10px;" 
+ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+/> <img 
+ align="left" 
+ alt="MySQL" 
+ title="MySQL"
+ width="40"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/> <img 
+ align="left" 
+ alt="Git" 
+ title="Git"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/> <img 
+ align="left" 
+ alt="JavaScript" 
+ title="JavaScript"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> <img 
+ align="left" 
+ alt="TypeScript"
+ title="TypeScript" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <br/>
@@ -102,14 +142,6 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
 
 ---
 
-### 🚀 Projeto Principal
+## 🎯 Objetivo
 
-🔹 SecureAccess - SaaS de Gestão de Acessos
-- Sistema completo de autenticação com JWT
-- Controle de permissões baseado em papéis (RBAC)
-- Registro de auditoria de ações dos usuários
-- Arquitetura backend com Spring Boot e MySQL
-
----
-
-### 📌 Atualmente focado em desenvolvimento backend com Java e construção de APIs seguras.
+Busco oportunidades como desenvolvedor backend para aplicar meus conhecimentos na construção de sistemas reais, evoluir tecnicamente e gerar impacto através da tecnologia.
