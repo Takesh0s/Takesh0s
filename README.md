@@ -41,12 +41,28 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
 
 ### 🤖 Linguagens e Tecnologias
 <img 
+    align="left"
+    alt="Java" 
+    title="Java" 
+    width="40"
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+/>
+<img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -57,12 +73,12 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="center"
-    alt="Java" 
-    title="Java" 
-    width="40"
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -80,98 +96,14 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="center" 
-    alt="CSharp" 
-    title="CSharp"
-    width="40" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="Lua" 
-    title="Lua"
-    height="30" 
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<br/>
 <br/>
 
-### 📊 Estatísticas
+### 🚀 Projeto Principal
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Takesh0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+🔹 SecureAccess - SaaS de Gestão de Acessos
+- Sistema completo de autenticação com JWT
+- Controle de permissões baseado em papéis (RBAC)
+- Registro de auditoria de ações dos usuários
+- Arquitetura backend com Spring Boot e MySQL
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takesh0s&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/> 
-
-</p>
+<h3>📌 Atualmente focado em desenvolvimento backend com Java e construção de APIs seguras.</h3>
