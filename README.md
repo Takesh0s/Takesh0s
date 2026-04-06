@@ -96,7 +96,11 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <br/>
+<br/>
+
+---
 
 ### 🚀 Projeto Principal
 
@@ -106,4 +110,6 @@ Sou apaixonado por tecnologia, com foco em desenvolvimento backend utilizando Ja
 - Registro de auditoria de ações dos usuários
 - Arquitetura backend com Spring Boot e MySQL
 
-<h3>📌 Atualmente focado em desenvolvimento backend com Java e construção de APIs seguras.</h3>
+---
+
+### 📌 Atualmente focado em desenvolvimento backend com Java e construção de APIs seguras.
